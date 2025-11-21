@@ -1,7 +1,16 @@
-# reason-3d-code
+<div align="center">
+
+# **Reason-3D: Text-to-Scene with Large Reasoning Models**
+
+**Frédéric Berdoz · Luca A. Lanzendörfer · Nick Tuninga · Roger Wattenhofer**
+
+![arXiv](https://img.shields.io/badge/arXiv-2509.26091-b31b1b.svg)
+
+Accepted at AAAI 2026
+
+</div>
 
 ---
-
 ## Getting Started
 
 ### 1. Clone the Repository
