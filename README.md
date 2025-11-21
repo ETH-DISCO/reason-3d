@@ -4,7 +4,7 @@
 
 **Frédéric Berdoz · Luca A. Lanzendörfer · Nick Tuninga · Roger Wattenhofer**
 
-![arXiv](https://img.shields.io/badge/arXiv-2509.26091-b31b1b.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.26091-b31b1b.svg)](https://arxiv.org/abs/2509.26091)
 
 Accepted at AAAI 2026
 
